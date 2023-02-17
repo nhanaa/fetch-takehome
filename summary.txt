@@ -1,0 +1,27 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+- I picked Python as my language of choice for the coding exercises for a few reasons.
+Firstly, Python is one the languages that I am proficient at and can come up with a solution
+for the problem quickly. Moreover, it has a huge number of built-in data structures and libraries
+I can utilize for this assignment to process and manipulate data. For example, Python's built-in
+dictionary let me easily keep track of the balances for each payer and a list can be used to easily
+store and sort the transactions by timestamp, which could be a bit more complicated using another language.
+Last but not least, Python does not require a lot of setups and boilerplate which I would have to dealt
+with if I had decided to use other languages like Java or JavaScript (in this case I have to use NodeJS).
+
+2. What are the advantages and disadvantages of your solution?
+- One of the advantages of my solution is that it is very simple and easy to understand. It is written in
+Python which has a very expressive and pseudo-code like syntax, which can help even people who are unfamiliar
+with the language understand. There were also error handlings for the arguments to make sure the input arguments
+are valid.
+- A disadvantage I can think of is that it relies on the fact that the CSV file always has the same format with
+the "payer","points","timestamp" header row.
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+- My favorite personal project thus far is my full-stack web application called lol-draft-tool, which allowed
+users to do drafting for the game League of Legends. Users also have to option to create their own account and
+save the drafts that they created to use them later. The most challenging part was to get the drafting logic to
+work in the frontend and make sure it works as intended since I had to figure out everything from scratch. Hosting
+the application was also quite challenging as it was the first time I hosted a full-stack application and
+there were quite a lot of configurations done to get the application working properly. The project really
+taught me a lot about how a full-stack application works and how I can approach a project like this better
+in the future.
