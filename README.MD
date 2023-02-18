@@ -1,5 +1,7 @@
 # Fetch Take-home Assignment
 
+This is solution to the take-home coding exercise for Fetch summer internship of Nhan Thanh Nguyen.
+
 ## Requirement
 
 Make sure to have any version of Python 3 installed in your local environment.
